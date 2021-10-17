@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Water Tracker</string>
+    <string name="drank">Drank a glass of water</string>
+</resources>
